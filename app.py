@@ -1,6 +1,6 @@
 from flask import Flask, request
 from keras.models import load_model
-import configparser
+
 from keras.preprocessing.image import img_to_array, load_img
 import numpy as np
 from io import BytesIO
