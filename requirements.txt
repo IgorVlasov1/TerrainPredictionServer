@@ -4,3 +4,5 @@ keras==2.13.1
 numpy==1.24.3
 gunicorn==21.2.0
 tensorflow==2.13.0
+matplotlib==3.8.0
+split-folders==0.5.1
